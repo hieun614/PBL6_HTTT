@@ -1,0 +1,38 @@
+.col-1 {
+    margin: 20px;
+}
+
+.card-content {
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.title {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    color: #05668D;
+    padding-bottom: 20px;
+}
+
+.payment-img  {
+    width: 33%;
+    margin: 50px 20px 20px 20px;
+    cursor: pointer;
+    transition: transform ease 1s;
+}
+
+
+
+.payment-img:hover {
+    transform: translateY(-40px);
+}
+
+
+
+
+
+
+
+

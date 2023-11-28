@@ -1,0 +1,154 @@
+.container {
+    width: 900px;
+    margin: 20px auto;
+    display: flex;
+}
+
+/* .row {
+    display: flex;
+} */
+
+.col-xl-6 {
+    display: flex;
+}
+
+.form_control {
+    width: 280px;
+    height: 32px;
+    border: 2px solid #05668D;
+    border-radius: 4px;
+    font-size: 1.25rem;
+    background: darkgray;
+    color: #2e323c;
+    padding-left: 10px;
+}
+
+
+.card-body {
+    width: 300px;
+    height: 600px;
+    background-color: #cfd1d8;
+    padding-top: 32px;
+}
+
+.form-body {
+    background-color: #cfd1d8;
+    width: 600px;
+    height: 600px;
+}
+
+.change-primary {
+    padding: 10px 0 0 10px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0.25px;
+    color: #000;
+}
+
+
+
+.account-settings  {
+    margin: 0 0 1rem 0;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+.account-settings  .user-avatar {
+    margin: 0 0 1rem 0;
+}
+.account-settings  .user-avatar img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+.account-settings  h5.user-name {
+    margin: 0 0 0.5rem 0;
+    font-size: 15px;
+    line-height: 20px;
+}
+.account-settings  h6.user-email {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #9fa8b9;
+}
+
+.about button {
+    width: 100px;
+    height: 25px;
+    border-radius: 15px;
+    background-color:#05668D;
+    color: #ffffff;
+    border: #ffffff;
+    margin-left: 100px;
+}
+
+.regis-buy button {
+    width: 280px;
+    height: 40px;
+    color: white;
+    background-color: #05668D;
+    margin-left: 10px;
+    border: 1px solid #05668D;
+    border-radius: 4px;
+}
+
+
+.form-control {
+    width: 280px;
+    height: 32px;
+    border: 2px solid #05668D;
+    border-radius: 4px;
+    font-size: 1.25rem;
+    background: #ffffff;
+    color: #2e323c;
+    padding-left: 10px;
+}
+
+.form-group {
+    padding: 10px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0.25px;
+    color: #05668D; 
+}
+
+.form-group label {
+    display: flex;
+}
+
+.text-right {
+    float: right;
+    padding-top: 20px;
+}
+
+.text-right button {
+    width: 80px;
+    height: 40px;
+    border-radius: 4px;
+    color: #ffffff;
+
+}
+
+.text-right .btn-secondary {
+    background-color: #6c757d;
+    border: #6c757d;
+}
+
+.text-right .btn-primary {
+    margin: 0 10px;
+    background-color: #05668D;
+    border: #05668D;
+}
+
+
+
+.card {
+    background: #ffffff;
+    border-radius: 5px;
+    border: 0;
+    margin-bottom: 1rem;
+    height: 450px;
+    padding: 10px;
+}

@@ -1,0 +1,95 @@
+.logo {
+  padding: 24px 40px;
+}
+
+.container-signup {
+  height: 100vh;
+  position: relative;
+}
+
+.container-form {
+  width: 200px;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--normal);
+  transform: translateX(-50%);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+
+.logo-center {
+  position: relative;
+  width: 40%;
+  height: 40%;
+  align-self: center;
+}
+
+.logo-center-img {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+}
+
+.signin {
+  color: var(--normal);
+  align-self: center;
+  margin-bottom: 30px;
+  width: 100%;
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form input {
+  width: 100%;
+  font-family: Nunito;
+  font-weight: 400;
+  color: #98A2B3;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.form-group input {
+  border: 1px solid #05668D;
+  border-radius: 2px;
+  padding: 5px 10px;
+  outline: none;
+}
+
+.forgot-password {
+  margin: 20px 0;
+  text-align: center;
+  display: block;
+}
+
+
+.btn-login{
+  width: 100%;
+}
+
+.line-gradien {
+  background-color: aquamarine;
+  width: 10px;
+  height: 370px;
+  position: absolute;
+  left: 47%;
+  border-radius: 10px;
+  background: linear-gradient(-180deg, #F5A4B0 40%, #055C7F 100%);
+}

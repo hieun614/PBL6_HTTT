@@ -1,0 +1,348 @@
+[
+    {
+        "username": "spyrke0",
+        "password": "PBL6TechE",
+        "email": "spyrke0@nba.com",
+        "first_name": "Saundra",
+        "last_name": "Pyrke",
+        "userprofile":{
+            "is_seller": false,
+            "gender": false,
+            "birthday": "2015-01-30",
+            "phone": "8608253133",
+            "address": "0 Eagle Crest Way",
+            "avt": "https://robohash.org/quienimsaepe.png?size=50x50&set=set1"
+        }       
+    },
+    {
+        "username": "gbraunfeld1",
+        "password": "PBL6TechE",
+        "email": "gbraunfeld1@narod.ru",
+        "first_name": "Godfree",
+        "last_name": "Braunfeld",
+        "userprofile":{
+            "is_seller": false,
+            "gender": true,
+            "birthday": "2021-03-03",
+            "phone": "4293601259",
+            "address": "811 Mendota Plaza",
+            "avt": "https://robohash.org/nemoimpeditnihil.png?size=50x50&set=set1"
+        }      
+    },
+    {
+        "username": "bhegdonne2",
+        "password": "PBL6TechE",
+        "email": "bhegdonne2@xing.com",
+        "first_name": "Broderic",
+        "last_name": "Hegdonne",
+        "userprofile":{
+            "is_seller": false,
+            "gender": true,
+            "birthday": "2006-04-02",
+            "phone": "8585949673",
+            "address": "204 Eliot Court",
+            "avt": "https://robohash.org/dolorsitbeatae.png?size=50x50&set=set1"
+        }
+       
+    },
+    {
+        "username": "khawkslee3",
+        "password": "PBL6TechE",
+        "email": "khawkslee3@linkedin.com",
+        "first_name": "Kip",
+        "last_name": "Hawkslee",
+        "userprofile":{
+            "is_seller": true,
+            "gender": true,
+            "birthday": "2011-10-02",
+            "phone": "5361057050",
+            "address": "24 Carpenter Circle",
+            "avt": "https://robohash.org/teneturestprovident.png?size=50x50&set=set1",
+            "seller":{
+                "name_store": "Moelis & Company",
+                "logo": "https://robohash.org/doloribusminimalibero.png?size=50x50&set=set1"
+            }
+        }
+       
+    },
+    {
+        "username": "hwadie4",
+        "password": "PBL6TechE",
+        "email": "hwadie4@hc360.com",
+        "first_name": "Hilliary",
+        "last_name": "Wadie",
+        "userprofile":{
+            "is_seller": false,
+            "gender": false,
+            "birthday": "2009-08-22",
+            "phone": "3556469776",
+            "address": "197 Mcguire Junction",
+            "avt": "https://robohash.org/inventoreveritatisvoluptatum.png?size=50x50&set=set1"
+        }
+        
+    },
+    {
+        "username": "rperree5",
+        "password": "PBL6TechE",
+        "email": "rperree5@opensource.org",
+        "first_name": "Ruy",
+        "last_name": "Perree",
+        "userprofile":{
+            "is_seller": false,
+            "gender": true,
+            "birthday": "2011-10-17",
+            "phone": "6048081797",
+            "address": "9360 Knutson Street",
+            "avt": "https://robohash.org/nonautanimi.png?size=50x50&set=set1"
+        }
+        
+    },
+    {
+        "username": "cbransden6",
+        "password": "PBL6TechE",
+        "email": "cbransden6@timesonline.co.uk",
+        "first_name": "Crawford",
+        "last_name": "Bransden",
+        "userprofile":{
+            "is_seller": false,
+            "gender": false,
+            "birthday": "2010-08-15",
+            "phone": "5043071521",
+            "address": "8093 Burning Wood Court",
+            "avt": "https://robohash.org/easitomnis.png?size=50x50&set=set1"
+        }
+        
+    },
+    {
+        "username": "lfoxon7",
+        "password": "PBL6TechE",
+        "email": "lfoxon7@wordpress.com",
+        "first_name": "Ladonna",
+        "last_name": "Foxon",
+        "userprofile":{
+            "is_seller": false,
+            "gender": false,
+            "birthday": "2001-06-14",
+            "phone": "7515076420",
+            "address": "74 Ruskin Court",
+            "avt": "https://robohash.org/errorcupiditateest.png?size=50x50&set=set1"
+        }
+        
+    },
+    {
+        "username": "pbrighty8",
+        "password": "PBL6TechE",
+        "email": "pbrighty8@toplist.cz",
+        "first_name": "Pattie",
+        "last_name": "Brighty",
+        "userprofile":{
+            "is_seller": false,
+            "gender": true,
+            "birthday": "2007-09-10",
+            "phone": "7869313813",
+            "address": "79 Scott Junction",
+            "avt": "https://robohash.org/quibusdamoccaecatiaut.png?size=50x50&set=set1"
+        }
+       
+    },
+    {
+        "username": "sdarrigo9",
+        "password": "PBL6TechE",
+        "email": "sdarrigo9@ted.com",
+        "first_name": "Stafford",
+        "last_name": "D'Arrigo",
+        "userprofile":{
+            "is_seller": false,
+            "gender": false,
+            "birthday": "2022-07-21",
+            "phone": "7388799453",
+            "address": "774 Steensland Plaza",
+            "avt": "https://robohash.org/estpossimuseos.png?size=50x50&set=set1"
+        }
+  
+    },
+    {
+        "username": "lsauvaina",
+        "password": "PBL6TechE",
+        "email": "lsauvaina@skyrock.com",
+        "first_name": "Lionello",
+        "last_name": "Sauvain",
+        "userprofile":{
+            "is_seller": false,
+            "gender": true,
+            "birthday": "2002-08-31",
+            "phone": "8466554516",
+            "address": "61983 Graceland Road",
+            "avt": "https://robohash.org/laborumporronam.png?size=50x50&set=set1"
+        }
+    
+    },
+    {
+        "username": "cmowattb",
+        "password": "PBL6TechE",
+        "email": "cmowattb@harvard.edu",
+        "first_name": "Christoph",
+        "last_name": "Mowatt",
+        "userprofile":{
+            "is_seller": true,
+            "gender": true,
+            "birthday": "2015-08-21",
+            "phone": "6405748216",
+            "address": "09 Moland Circle",
+            "avt": "https://robohash.org/uteaenim.png?size=50x50&set=set1",
+            "seller":{
+                "name_store": "Fidelity National Information Services, Inc.",
+                "logo": "https://robohash.org/officiarerumqui.png?size=50x50&set=set1"
+            }
+        }
+  
+    },
+    {
+        "username": "ctubblesc",
+        "password": "PBL6TechE",
+        "email": "ctubblesc@virginia.edu",
+        "first_name": "Corrina",
+        "last_name": "Tubbles",       
+        "userprofile":{
+            "is_seller": false,
+            "gender": false,
+            "birthday": "2011-04-10",
+            "phone": "4141385207",
+            "address": "1182 2nd Junction",
+            "avt": "https://robohash.org/odittemporaalias.png?size=50x50&set=set1"
+        }
+    
+    },
+    {
+        "username": "htraffordd",
+        "password": "PBL6TechE",
+        "email": "htraffordd@etsy.com",
+        "first_name": "Hilde",
+        "last_name": "Trafford",
+        "userprofile":{
+            "is_seller": false,
+            "gender": false,
+            "birthday": "2021-01-26",
+            "phone": "3818723600",
+            "address": "8 Meadow Ridge Road",
+            "avt": "https://robohash.org/possimusoditvel.png?size=50x50&set=set1"
+        }
+      
+    },
+    {
+        "username": "dvittee",
+        "password": "PBL6TechE",
+        "email": "dvittee@oaic.gov.au",
+        "first_name": "Dolley",
+        "last_name": "Vitte",
+        "userprofile":{
+            "is_seller": true,
+            "gender": false,
+            "birthday": "2004-11-15",
+            "phone": "1554362716",
+            "address": "25 Porter Avenue",
+            "avt": "https://robohash.org/autvoluptateseum.png?size=50x50&set=set1",
+            "seller":{
+                "name_store": "DaVita Inc.",
+                "logo": "https://robohash.org/asperioresconsequaturexcepturi.png?size=50x50&set=set1"
+            }
+        }
+       
+    },
+    {
+        "username": "destcotf",
+        "password": "PBL6TechE",
+        "email": "destcotf@feedburner.com",
+        "first_name": "Dirk",
+        "last_name": "Estcot",
+        "userprofile":{
+            "is_seller": false,
+            "gender": true,
+            "birthday": "2017-04-30",
+            "phone": "9025688405",
+            "address": "22 Hansons Avenue",
+            "avt": "https://robohash.org/doloremquequasidolor.png?size=50x50&set=set1"
+        }
+     
+    },
+    {
+        "username": "dcrebog",
+        "password": "PBL6TechE",
+        "email": "dcrebog@t-online.de",
+        "first_name": "Drucill",
+        "last_name": "Crebo",
+        "userprofile":{
+            "is_seller": true,
+            "gender": true,
+            "birthday": "2009-01-06",
+            "phone": "9506594154",
+            "address": "748 Cody Trail",
+            "avt": "https://robohash.org/culpasintest.png?size=50x50&set=set1",
+            "seller":{
+                "name_store": "PowerShares DWA Momentum Portfolio",
+                "logo": "https://robohash.org/laudantiumsitut.png?size=50x50&set=set1"
+            }
+        }
+     
+    },
+    {
+        "username": "cgreatbatchh",
+        "password": "PBL6TechE",
+        "email": "cgreatbatchh@cargocollective.com",
+        "first_name": "Cristiano",
+        "last_name": "Greatbatch",
+        "userprofile":{
+            "is_seller": true,
+            "gender": true,
+            "birthday": "2008-06-10",
+            "phone": "6445342563",
+            "address": "056 Cardinal Street",
+            "avt": "https://robohash.org/doloresquaeratnon.png?size=50x50&set=set1",
+            "seller":{
+                "name_store": "Communications Systems, Inc.",
+                "logo": "https://robohash.org/sintconsequaturut.png?size=50x50&set=set1"
+            }
+        }
+      
+    },
+    {
+        "username": "jcrowei",
+        "password": "PBL6TechE",
+        "email": "jcrowei@livejournal.com",
+        "first_name": "Jerry",
+        "last_name": "Crowe",
+        "userprofile":{
+            "is_seller": true,
+            "gender": false,
+            "birthday": "2004-11-07",
+            "phone": "3108453613",
+            "address": "0 Hanson Center",
+            "avt": "https://robohash.org/etsednulla.png?size=50x50&set=set1",
+            "seller":{
+                "name_store": "Abbott Laboratories",
+                "logo": "https://robohash.org/suscipitexmodi.png?size=50x50&set=set1"
+            }
+        }
+      
+    },
+    {
+        "username": "wmardlingj",
+        "password": "PBL6TechE",
+        "email": "wmardlingj@dailymotion.com",
+        "first_name": "Wells",
+        "last_name": "Mardling",
+        "userprofile":{
+            "is_seller": true,
+            "gender": false,
+            "birthday": "2009-05-25",
+            "phone": "7141647140",
+            "address": "92 Grayhawk Lane",
+            "avt": "https://robohash.org/inventorequout.png?size=50x50&set=set1",
+            "seller": {
+                "name_store": "Nano Dimension Ltd.",
+                "logo": "https://robohash.org/exaccusantiumdolorem.png?size=50x50&set=set1"
+            }
+        }
+     
+    }
+]
